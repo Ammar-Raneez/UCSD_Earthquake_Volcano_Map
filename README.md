@@ -1,1 +1,2 @@
-# USSD_Earthquake-Volcano-Map
+Java Applet Map - displays world volcano & earthquake data, built following the Java Specialization by UCSD
+
